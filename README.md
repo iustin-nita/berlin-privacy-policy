@@ -1,2 +1,2 @@
-# berlin-public-policy
-Public policy for "Berlin public" app
+# berlin-privacy-policy
+Privacy policy for "Berlin public" app
